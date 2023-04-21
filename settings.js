@@ -20,7 +20,7 @@ global.OWNER_REACT = '🥀' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
 
 
-/*
+/
 BOT SETTINGS
 */
 
